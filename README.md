@@ -15,10 +15,10 @@ It includes a simple implementation to generate and experiment with images from 
 
 ## 📸 Sample Outputs
 
-### Example 1: Generated Landscape
+### Example 1: Mermaid in a Cave
 ![Landscape](images/download.png)
 
-### Example 2: Mermaid in a Cave
+### Example 2: Generated Landscape 
 ![Mermaid](images/download2.png)
 
 ---
